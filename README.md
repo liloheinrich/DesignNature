@@ -13,14 +13,13 @@ During this project, I:
 
 - researched hopping animals to find inspiration
 - kept a sketchbook of my hopper design ideas
-- fabricated prototypes which I used to iteratively improveme my design
+- fabricated prototypes and iteratively improved my designs
 - learned how to CAD lasercutting layouts in Fusion360
 
 
 ## Play Project: Elephants
 
 ... prepared for several Design Review presentations
-
 
 -----------------------------
 ## Course Description 
