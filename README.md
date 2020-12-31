@@ -7,8 +7,8 @@ The first design challenge was to draw inspiration from jumping animals such as 
 
 <p float="left">
   <img src="Hoppers/Final Draft/imgs/poster.png" width="250" />
-  <img src="Hoppers/Prototypes/imgs/hopper-slomo-crop.gif" width="350" /> 
-  <img src="Hoppers/Prototypes/imgs/bioinspirations.gif" width="320" />
+  <img src="Hoppers/Prototypes/imgs/hopper-slomo-crop.gif" width="300" /> 
+  <img src="Hoppers/Prototypes/imgs/bioinspirations.gif" width="280" />
 </p>
 
 What I did for this project:
