@@ -6,7 +6,10 @@ In this Olin first-year class I completed two bio-inspired engineering design pr
 The first design challenge was to draw inspiration from jumping animals such as the click beetle and froghopper to create a "Hopper" that can jump substantially compared to its size. My hopper [Springaroo](https://github.com/liloheinrich/DesNat/main/Final%20Draft/Hopper%20Poster%20Lilo%20Heinrich.pdf) is built to entertain by jumping and spinning, inspired by the form of a kangaroo's hind legs and the motion of a springtail's jump. 
 
 
-<img src="Hoppers/Final Draft/imgs/poster.png" width="300"> <img src="Hoppers/Prototypes/imgs/hopper-slomo-crop.gif" width="350"> <img src="Hoppers/Prototypes/imgs/bioinspirations.gif" width="320">
+| Poster | Slomo | Bioinspirations |
+| --------------- | --------------- | --------------- |
+| <img src="Hoppers/Final Draft/imgs/poster.png"> | <img src="Hoppers/Prototypes/imgs/hopper-slomo-crop.gif"> | <img src="Hoppers/Prototypes/imgs/bioinspirations.gif"> |
+
 
 What I did for this project:
 
