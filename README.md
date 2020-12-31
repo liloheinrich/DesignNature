@@ -20,7 +20,7 @@ What I did for this project:
 
 The Play Project challenge was to work in teams to design a bio-inspired play experience to engage and delight fourth graders, inspired by a distinctive behavior and corresponding motion of an animal. 
 
-<img src="Play Project/Kids Playing Media/playgif1.gif" width="300"> <img src="Play Project/Kids Playing Media/playgif2.gif" width="300">
+<img src="Play Project/Kids Playing Media/playgif1.gif" width="400"> <img src="Play Project/Kids Playing Media/playgif2.gif" width="400">
 
 What I did for this project:
 
