@@ -3,7 +3,7 @@
 In this Olin first-year class I completed two bio-inspired engineering design projects. 
 
 ## Hoppers
-The first design challenge was to draw inspiration from jumping animals such as the click beetle and froghopper to create a "Hopper" that can jump substantially compared to its size. My hopper named [Springaroo](https://github.com/liloheinrich/DesNat/main/Final%20Draft/Hopper%20Poster%20Lilo%20Heinrich.pdf) was built to entertain by jumping and spinning, inspired by the form of a kangaroo's hind legs and the motion of a springtail's jump. 
+The first design challenge was to draw inspiration from jumping animals such as the click beetle and froghopper to create a "Hopper" that can jump substantially compared to its size. My hopper [Springaroo](https://github.com/liloheinrich/DesNat/main/Final%20Draft/Hopper%20Poster%20Lilo%20Heinrich.pdf) is built to entertain by jumping and spinning, inspired by the form of a kangaroo's hind legs and the motion of a springtail's jump. 
 
 
 <img src="Hoppers/Prototypes/imgs/hopper-showoff.gif">
@@ -20,6 +20,7 @@ What I did for this project:
 
 The Play Project challenge was to work in teams to design a bio-inspired play experience to engage and delight fourth graders, inspired by a distinctive behavior and corresponding motion of an animal. 
 
+<img src="Play Project/Kids Playing Media/playgif1.gif" width="400"> <img src="Play Project/Kids Playing Media/playgif2.gif" width="400">
 
 What I did for this project:
 
