@@ -21,7 +21,7 @@ What I did for this project:
 
 ## Play Project: Elephants
 
-The Play Project challenge was to work in a five-person team to design a bio-inspired play experience to engage and delight fourth graders, inspired by a distinctive behavior and corresponding motion of an animal. 
+The Play Project challenge was to work in a five-person team (Celvi, Sam, Anne, Efe, and myself) to design a bio-inspired play experience to engage and delight fourth graders, inspired by a distinctive behavior and corresponding motion of an animal. 
 
 <img src="Play Project/Kids Playing Media/playgif1.gif" width="400"> <img src="Play Project/Kids Playing Media/playgif2.gif" width="400">
 
